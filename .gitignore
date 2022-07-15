@@ -56,3 +56,6 @@ baseline.json
 
 # Husky
 .husky/_
+aio/content/examples/.DS_Store
+temp_auto_push.bat
+temp_interactive_push.bat
